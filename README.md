@@ -79,6 +79,6 @@ Optimize file stages: single vs per-entity staging based on scale/security needs
 | `_ID`  | Primary Key   |
 | `_PK`  | Primary Key   |
 # app ui
-Yearly Dashboard.png
-<img width="1459" alt="image" src="https://github.com/user-attachments/assets/e64dda91-5456-4f27-8c71-c0701c52e43d" />
-<img width="1466" alt="image" src="https://github.com/user-attachments/assets/1f327507-1e4f-4264-9410-6851741ecfea" />
+![image](https://github.com/user-attachments/assets/a6b6f8cd-6ec6-4a96-a5d3-a680a01bd51a)
+![image](https://github.com/user-attachments/assets/ca182587-fd1c-4d2b-891f-94b71f2e4493)
+![image](https://github.com/user-attachments/assets/59edf81c-15d3-4291-8373-bf94b7164854)
